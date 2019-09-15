@@ -15,8 +15,7 @@ Markdown格式说明
 ---------
 ********
 
-![区块链](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
-u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
+![区块链](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 
 [生信](http://college.gcbi.com.cn/archives/3395 "生信超厉害了！")
 
@@ -34,15 +33,15 @@ u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 关羽|打|二哥
 张飞|骂|三弟
 
-'git bash'
-'''
-git
-git
-git
-'''
+`git bash;`
+(```
+git;
+git;
+git;
+```)
 
 流程图
-'''flow
+```flow
 st=>start:开始
 op=>operation:My Operation
 cond=>condition:Yes or no?
@@ -50,4 +49,4 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
-&'''
+&```
