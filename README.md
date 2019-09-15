@@ -34,17 +34,17 @@ Markdown格式说明
 张飞|骂|三弟
 
 `git bash;`
-(```
+```
 git;
 git;
 git;
-```)
+```
 
 流程图
 ```flow
-st=>start:开始
-op=>operation:My Operation
-cond=>condition:Yes or no?
+st=>start：开始
+op=>operation：My Operation
+cond=>condition：Yes or no?
 e=>end
 st->op->cond
 cond(yes)->e
